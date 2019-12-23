@@ -1,0 +1,6 @@
+[requires]
+ConanCargoWrapper/0.1@lasote/testing
+mosquitto/1.4.15@bincrafters/stable
+
+[generators]
+ConanCargoWrapper

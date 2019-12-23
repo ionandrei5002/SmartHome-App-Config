@@ -1,2 +1,7 @@
 /target
 **/*.rs.bk
+conan.lock
+conan_cargo_build.rs
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
